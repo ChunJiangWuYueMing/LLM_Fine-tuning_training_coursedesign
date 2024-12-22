@@ -6,7 +6,7 @@ import os
 import json
 import pandas as pd
 
-folder_path = "双语数据\史记\七十列传"
+folder_path = "D:\study_space\AI-class\Program\LLM_Fine-tuning_training_coursedesign\data\Classical-Modern\Classical-Modern-main\双语数据"
 
 
 # get all subfolders in the folder, then for each subfolder, get source file and target file,
